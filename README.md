@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm Wyretski!
 
-### I'm Wyretski (the W and y are silent)!
+### The W and y are silent, so it's pronounced as Retskee
 ### Please ignore my obsession with anthro animals, I think it's a result of childhood brain damage.
 ### I'm literate in HTML, CSS, Javascript, Python, C++, and a small bit of Lua.
+
+# H
+## H
